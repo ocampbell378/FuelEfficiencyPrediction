@@ -1,6 +1,4 @@
-====================================================================================
 PROJECT NAME: Impact of Horsepower on Fuel Efficiency using Simple Linear Regression
-====================================================================================
 
 ## OVERVIEW
 This project is a simple linear regression model that predicts fuel efficiency (MPG) 
