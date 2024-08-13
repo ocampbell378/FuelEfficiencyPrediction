@@ -17,7 +17,7 @@ Matplotlib, and Scikit-learn.
 - Third-party libraries: `pandas`, `numpy`, `seaborn`, `matplotlib.pyplot`, 
 `jupyterthemes`, `sklearn.model_selection`, `sklearn.linear_model`
 
-### Installation Steps 
+## INSTALLATION 
 1. Clone the repository:
 git clone https://github.com/ocampbell378/FuelEfficiencyPrediction.git
 2. Install the required libraries:
@@ -53,5 +53,5 @@ provides a predicted fuel economy for a given horsepower.
 - `predict()`: Predicts fuel efficiency for a given horsepower using the trained model.
 
 ## CREDITS
-Developed by Owen Campbell
-The FuelEconomy.csv dataset is taken from the "Simple Linear Regression for the Absolute Beginner" course on Coursera.
+- Developed by Owen Campbell
+- The FuelEconomy.csv dataset is taken from the "Simple Linear Regression for the Absolute Beginner" course on Coursera.
